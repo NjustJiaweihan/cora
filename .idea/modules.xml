@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cora.iml" filepath="$PROJECT_DIR$/cora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cora-api/cora-api.iml" filepath="$PROJECT_DIR$/cora-api/cora-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cora-application/cora-application.iml" filepath="$PROJECT_DIR$/cora-application/cora-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cora-common/cora-common.iml" filepath="$PROJECT_DIR$/cora-common/cora-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cora-domain/cora-domain.iml" filepath="$PROJECT_DIR$/cora-domain/cora-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cora-infrastructure/cora-infrastructure.iml" filepath="$PROJECT_DIR$/cora-infrastructure/cora-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cora-puml/cora-puml.iml" filepath="$PROJECT_DIR$/cora-puml/cora-puml.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cora-common" />
+        <module name="cora-infrastructure" />
+        <module name="cora-puml" />
+        <module name="cora-domain" />
+        <module name="cora-api" />
+        <module name="cora-application" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cora" target="1.8" />
+      <module name="cora-api" target="1.8" />
+      <module name="cora-application" target="1.8" />
+      <module name="cora-common" target="1.8" />
+      <module name="cora-domain" target="1.8" />
+      <module name="cora-infrastructure" target="1.8" />
+      <module name="cora-puml" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cora" options="-parameters" />
+      <module name="cora-api" options="-parameters" />
+      <module name="cora-application" options="-parameters" />
+      <module name="cora-common" options="-parameters" />
+      <module name="cora-domain" options="-parameters" />
+      <module name="cora-infrastructure" options="-parameters" />
+      <module name="cora-puml" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d331391a-5487-49d9-a6b4-728db19ea2a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27KdF8yow825lmK2ykg2yLqpR47" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="15" />
+    <property name="RequestMappingsPanelWidth1" value="15" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dream.cora" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.QuarkApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuarkApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cora-application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="jar.QuarkApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuarkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cora-application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dream.cora.QuarkApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cora-application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dream.cora.QuarkApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d331391a-5487-49d9-a6b4-728db19ea2a8" name="Default Changelist" comment="" />
+      <created>1649072604665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649072604665</updated>
+      <workItem from="1649072608772" duration="6547000" />
+      <workItem from="1649079217637" duration="6759000" />
+      <workItem from="1649148567740" duration="7000" />
+      <workItem from="1649148586286" duration="23000" />
+      <workItem from="1649148631505" duration="7037000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1649080541854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649080541854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1649087645574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649087645574</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="204" width="1197" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649079178777">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="384" y="204" width="1197" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079178777" />
+    <state x="651" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1649079174992">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="651" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079174992" />
+    <state x="619" y="211" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1649158330158">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="619" y="211" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649158330158" />
+    <state x="596" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1649072675053">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="596" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649072675053" />
+    <state x="406" y="168" key="CommitChangelistDialog2" timestamp="1649087645451">
+      <screen x="54" y="25" width="1738" height="1095" />
+    </state>
+    <state x="406" y="168" key="CommitChangelistDialog2/-449.-1415.2560.1415/54.25.1738.1095@54.25.1738.1095" timestamp="1649087645451" />
+    <state width="1671" height="561" key="GridCell.Tab.0.bottom" timestamp="1649082910708">
+      <screen x="54" y="25" width="1738" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.0.bottom/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280063" />
+    <state width="1671" height="561" key="GridCell.Tab.0.bottom/-449.-1415.2560.1415/54.25.1738.1095@54.25.1738.1095" timestamp="1649082910708" />
+    <state width="1671" height="561" key="GridCell.Tab.0.center" timestamp="1649082910708">
+      <screen x="54" y="25" width="1738" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.0.center/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280062" />
+    <state width="1671" height="561" key="GridCell.Tab.0.center/-449.-1415.2560.1415/54.25.1738.1095@54.25.1738.1095" timestamp="1649082910708" />
+    <state width="1671" height="561" key="GridCell.Tab.0.left" timestamp="1649082910707">
+      <screen x="54" y="25" width="1738" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.0.left/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280062" />
+    <state width="1671" height="561" key="GridCell.Tab.0.left/-449.-1415.2560.1415/54.25.1738.1095@54.25.1738.1095" timestamp="1649082910707" />
+    <state width="1671" height="561" key="GridCell.Tab.0.right" timestamp="1649082910708">
+      <screen x="54" y="25" width="1738" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.0.right/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280062" />
+    <state width="1671" height="561" key="GridCell.Tab.0.right/-449.-1415.2560.1415/54.25.1738.1095@54.25.1738.1095" timestamp="1649082910708" />
+    <state width="1671" height="340" key="GridCell.Tab.1.bottom" timestamp="1649079280063">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.1.bottom/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280063" />
+    <state width="1671" height="340" key="GridCell.Tab.1.center" timestamp="1649079280063">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.1.center/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280063" />
+    <state width="1671" height="340" key="GridCell.Tab.1.left" timestamp="1649079280063">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.1.left/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280063" />
+    <state width="1671" height="340" key="GridCell.Tab.1.right" timestamp="1649079280063">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.1.right/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280063" />
+    <state width="1671" height="340" key="GridCell.Tab.2.bottom" timestamp="1649079280064">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.2.bottom/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280064" />
+    <state width="1671" height="340" key="GridCell.Tab.2.center" timestamp="1649079280064">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.2.center/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280064" />
+    <state width="1671" height="340" key="GridCell.Tab.2.left" timestamp="1649079280064">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.2.left/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280064" />
+    <state width="1671" height="340" key="GridCell.Tab.2.right" timestamp="1649079280064">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state width="1671" height="340" key="GridCell.Tab.2.right/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079280064" />
+    <state x="423" y="187" key="NewModule_or_Project.wizard" timestamp="1649079753157">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="423" y="187" key="NewModule_or_Project.wizard/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079753157" />
+    <state x="142" y="97" width="1501" height="903" key="SettingsEditor" timestamp="1649148701730">
+      <screen x="54" y="25" width="1738" height="1095" />
+    </state>
+    <state x="141" y="97" width="1501" height="903" key="SettingsEditor/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649079784859" />
+    <state x="142" y="97" key="SettingsEditor/-449.-1415.2560.1415/54.25.1738.1095@54.25.1738.1095" timestamp="1649148701730" />
+    <state x="423" y="226" key="Vcs.Push.Dialog.v2" timestamp="1649087649354">
+      <screen x="54" y="25" width="1738" height="1095" />
+    </state>
+    <state x="423" y="226" key="Vcs.Push.Dialog.v2/-449.-1415.2560.1415/54.25.1738.1095@54.25.1738.1095" timestamp="1649087649354" />
+    <state x="127" y="135" key="new project wizard" timestamp="1649073822362">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="127" y="135" key="new project wizard/-449.-1415.2560.1415/53.25.1739.1095@53.25.1739.1095" timestamp="1649073822362" />
+  </component>
+</project>
